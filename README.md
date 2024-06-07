@@ -1,6 +1,2 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FiveFM&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FiveFM&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://private-user-images.githubusercontent.com/70456189/337804639-71d39b1b-4f2a-4348-ae87-118eac98c3d5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3OTc0MTcsIm5iZiI6MTcxNzc5NzExNywicGF0aCI6Ii83MDQ1NjE4OS8zMzc4MDQ2MzktNzFkMzliMWItNGYyYS00MzQ4LWFlODctMTE4ZWFjOThjM2Q1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA3VDIxNTE1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyYjY3ZjI2ZGQyODc4MWJhMGVhZGI4YmFjOWZiODAzOTIyOTZiYjI2YmExMGRmN2JmNTA4NWJlNDRmYzk2OWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AkJ5rG8nTTTnhShy3pC8qqh3mfLMmxG8y3Jm2YzwCzc');]{x0000}$}
